@@ -20,6 +20,8 @@ LIMA: https://huggingface.co/datasets/GAIR/lima
 
 Guanaco: https://huggingface.co/datasets/JosephusCheung/GuanacoDataset
 
+Heterogeneous Data Train set：HD-SQL Method generation
+
 #Clean Data
 
 See this git repository
